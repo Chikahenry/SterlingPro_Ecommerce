@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:58533",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Server\\..\\ecommerce.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

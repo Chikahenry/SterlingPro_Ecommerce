@@ -1,0 +1,700 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91C7FB-C3D3-40E4-BC30-080ADBE96A63}|ecommerce.client\\ecommerce.client.esproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.client\\src\\pages\\mainpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8E91C7FB-C3D3-40E4-BC30-080ADBE96A63}|ecommerce.client\\ecommerce.client.esproj|solutionrelative:ecommerce.client\\src\\pages\\mainpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91C7FB-C3D3-40E4-BC30-080ADBE96A63}|ecommerce.client\\ecommerce.client.esproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.client\\src\\pages\\loginpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8E91C7FB-C3D3-40E4-BC30-080ADBE96A63}|ecommerce.client\\ecommerce.client.esproj|solutionrelative:ecommerce.client\\src\\pages\\loginpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91C7FB-C3D3-40E4-BC30-080ADBE96A63}|ecommerce.client\\ecommerce.client.esproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.client\\src\\types.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8E91C7FB-C3D3-40E4-BC30-080ADBE96A63}|ecommerce.client\\ecommerce.client.esproj|solutionrelative:ecommerce.client\\src\\types.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91C7FB-C3D3-40E4-BC30-080ADBE96A63}|ecommerce.client\\ecommerce.client.esproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.client\\src\\api\\cart.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8E91C7FB-C3D3-40E4-BC30-080ADBE96A63}|ecommerce.client\\ecommerce.client.esproj|solutionrelative:ecommerce.client\\src\\api\\cart.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91C7FB-C3D3-40E4-BC30-080ADBE96A63}|ecommerce.client\\ecommerce.client.esproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8E91C7FB-C3D3-40E4-BC30-080ADBE96A63}|ecommerce.client\\ecommerce.client.esproj|solutionrelative:ecommerce.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91C7FB-C3D3-40E4-BC30-080ADBE96A63}|ecommerce.client\\ecommerce.client.esproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.client\\src\\api\\products.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8E91C7FB-C3D3-40E4-BC30-080ADBE96A63}|ecommerce.client\\ecommerce.client.esproj|solutionrelative:ecommerce.client\\src\\api\\products.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91C7FB-C3D3-40E4-BC30-080ADBE96A63}|ecommerce.client\\ecommerce.client.esproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.client\\src\\api\\client.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8E91C7FB-C3D3-40E4-BC30-080ADBE96A63}|ecommerce.client\\ecommerce.client.esproj|solutionrelative:ecommerce.client\\src\\api\\client.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7FE832-A761-4BD2-8075-B45FB73D3024}|ECommerce.Server\\ECommerce.API.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7FE832-A761-4BD2-8075-B45FB73D3024}|ECommerce.Server\\ECommerce.API.csproj|solutionrelative:ecommerce.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925C9296-6E65-433E-B4A1-2BF57E248C46}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925C9296-6E65-433E-B4A1-2BF57E248C46}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925C9296-6E65-433E-B4A1-2BF57E248C46}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925C9296-6E65-433E-B4A1-2BF57E248C46}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925C9296-6E65-433E-B4A1-2BF57E248C46}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.infrastructure\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925C9296-6E65-433E-B4A1-2BF57E248C46}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7FE832-A761-4BD2-8075-B45FB73D3024}|ECommerce.Server\\ECommerce.API.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7FE832-A761-4BD2-8075-B45FB73D3024}|ECommerce.Server\\ECommerce.API.csproj|solutionrelative:ecommerce.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7FE832-A761-4BD2-8075-B45FB73D3024}|ECommerce.Server\\ECommerce.API.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.server\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7FE832-A761-4BD2-8075-B45FB73D3024}|ECommerce.Server\\ECommerce.API.csproj|solutionrelative:ecommerce.server\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7FE832-A761-4BD2-8075-B45FB73D3024}|ECommerce.Server\\ECommerce.API.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.server\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7FE832-A761-4BD2-8075-B45FB73D3024}|ECommerce.Server\\ECommerce.API.csproj|solutionrelative:ecommerce.server\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.application\\products\\getproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\products\\getproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.application\\auth\\getcurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\auth\\getcurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.application\\auth\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\auth\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.application\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7FE832-A761-4BD2-8075-B45FB73D3024}|ECommerce.Server\\ECommerce.API.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B7FE832-A761-4BD2-8075-B45FB73D3024}|ECommerce.Server\\ECommerce.API.csproj|solutionrelative:ecommerce.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925C9296-6E65-433E-B4A1-2BF57E248C46}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.infrastructure\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925C9296-6E65-433E-B4A1-2BF57E248C46}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.application\\carts\\removeitemfromcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\carts\\removeitemfromcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.application\\carts\\additemtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\carts\\additemtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.application\\carts\\updatecartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\carts\\updatecartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.application\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.application\\carts\\getcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\carts\\getcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925C9296-6E65-433E-B4A1-2BF57E248C46}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.infrastructure\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925C9296-6E65-433E-B4A1-2BF57E248C46}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91C7FB-C3D3-40E4-BC30-080ADBE96A63}|ecommerce.client\\ecommerce.client.esproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.client\\ecommerce.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E91C7FB-C3D3-40E4-BC30-080ADBE96A63}|ecommerce.client\\ecommerce.client.esproj|solutionrelative:ecommerce.client\\ecommerce.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7FE832-A761-4BD2-8075-B45FB73D3024}|ECommerce.Server\\ECommerce.API.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.server\\ecommerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B7FE832-A761-4BD2-8075-B45FB73D3024}|ECommerce.Server\\ECommerce.API.csproj|solutionrelative:ecommerce.server\\ecommerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925C9296-6E65-433E-B4A1-2BF57E248C46}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.infrastructure\\ecommerce.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{925C9296-6E65-433E-B4A1-2BF57E248C46}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\ecommerce.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E86C72-919C-4AA0-A978-B1928CE17D03}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.domain\\ecommerce.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08E86C72-919C-4AA0-A978-B1928CE17D03}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\ecommerce.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.application\\ecommerce.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\ecommerce.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.application\\dtos\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\dtos\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.application\\dtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\dtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67C4547-30D6-4631-A63B-34F58FCD3041}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E86C72-919C-4AA0-A978-B1928CE17D03}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E86C72-919C-4AA0-A978-B1928CE17D03}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E86C72-919C-4AA0-A978-B1928CE17D03}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.domain\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E86C72-919C-4AA0-A978-B1928CE17D03}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E86C72-919C-4AA0-A978-B1928CE17D03}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E86C72-919C-4AA0-A978-B1928CE17D03}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E86C72-919C-4AA0-A978-B1928CE17D03}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E86C72-919C-4AA0-A978-B1928CE17D03}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E86C72-919C-4AA0-A978-B1928CE17D03}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\chika\\desktop\\chika\\ecommerce\\ecommerce.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E86C72-919C-4AA0-A978-B1928CE17D03}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "types.ts",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ecommerce.client\\src\\types.ts",
+              "RelativeDocumentMoniker": "ecommerce.client\\src\\types.ts",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ecommerce.client\\src\\types.ts",
+              "RelativeToolTip": "ecommerce.client\\src\\types.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-07T18:23:25.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ecommerce.client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "ecommerce.client\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ecommerce.client\\src\\App.tsx",
+              "RelativeToolTip": "ecommerce.client\\src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-07T18:19:26.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.tsx",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ecommerce.client\\src\\pages\\MainPage.tsx",
+              "RelativeDocumentMoniker": "ecommerce.client\\src\\pages\\MainPage.tsx",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ecommerce.client\\src\\pages\\MainPage.tsx",
+              "RelativeToolTip": "ecommerce.client\\src\\pages\\MainPage.tsx",
+              "ViewState": "AgIAABoAAADAMjMzMzMrwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-07T18:12:40.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.tsx",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ecommerce.client\\src\\pages\\LoginPage.tsx",
+              "RelativeDocumentMoniker": "ecommerce.client\\src\\pages\\LoginPage.tsx",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ecommerce.client\\src\\pages\\LoginPage.tsx",
+              "RelativeToolTip": "ecommerce.client\\src\\pages\\LoginPage.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-07T18:12:08.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cart.ts",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ecommerce.client\\src\\api\\cart.ts",
+              "RelativeDocumentMoniker": "ecommerce.client\\src\\api\\cart.ts",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ecommerce.client\\src\\api\\cart.ts",
+              "RelativeToolTip": "ecommerce.client\\src\\api\\cart.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-07T18:11:23.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "products.ts",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ecommerce.client\\src\\api\\products.ts",
+              "RelativeDocumentMoniker": "ecommerce.client\\src\\api\\products.ts",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ecommerce.client\\src\\api\\products.ts",
+              "RelativeToolTip": "ecommerce.client\\src\\api\\products.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-07T18:10:57.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "client.ts",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ecommerce.client\\src\\api\\client.ts",
+              "RelativeDocumentMoniker": "ecommerce.client\\src\\api\\client.ts",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ecommerce.client\\src\\api\\client.ts",
+              "RelativeToolTip": "ecommerce.client\\src\\api\\client.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-07T18:10:24.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "ECommerce.Application\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:58:56.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerce.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Server\\appsettings.json",
+              "RelativeToolTip": "ECommerce.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T17:54:40.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Infrastructure\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Infrastructure\\Data\\SeedData.cs",
+              "RelativeToolTip": "ECommerce.Infrastructure\\Data\\SeedData.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwD4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:52:38.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RemoveItemFromCart.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\Carts\\RemoveItemFromCart.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Carts\\RemoveItemFromCart.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\Carts\\RemoveItemFromCart.cs",
+              "RelativeToolTip": "ECommerce.Application\\Carts\\RemoveItemFromCart.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:51:02.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateCartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\Carts\\UpdateCartItem.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Carts\\UpdateCartItem.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\Carts\\UpdateCartItem.cs",
+              "RelativeToolTip": "ECommerce.Application\\Carts\\UpdateCartItem.cs",
+              "ViewState": "AgIAAAgAAAAA////////vxwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:49:27.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Infrastructure\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Infrastructure\\Services\\TokenService.cs",
+              "RelativeToolTip": "ECommerce.Infrastructure\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAsAAACAMjMzMzMrwDEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:45:31.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Infrastructure\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\Services\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Infrastructure\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "ECommerce.Infrastructure\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:43:03.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetCurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\Auth\\GetCurrentUser.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Auth\\GetCurrentUser.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\Auth\\GetCurrentUser.cs",
+              "RelativeToolTip": "ECommerce.Application\\Auth\\GetCurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:40:51.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\Auth\\Register.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Auth\\Register.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\Auth\\Register.cs",
+              "RelativeToolTip": "ECommerce.Application\\Auth\\Register.cs",
+              "ViewState": "AgIAAAMAAAAAMjMzMzMXwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:40:15.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\Auth\\Login.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Auth\\Login.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\Auth\\Login.cs",
+              "RelativeToolTip": "ECommerce.Application\\Auth\\Login.cs",
+              "ViewState": "AgIAABAAAAAA8P////8PwCQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:39:20.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\DTOs\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\DTOs\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\DTOs\\AuthResponse.cs",
+              "RelativeToolTip": "ECommerce.Application\\DTOs\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:35:02.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ECommerce.Server\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ECommerce.Server\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAACw//////8nwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:26:26.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Server\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "ECommerce.Server\\Controllers\\CartsController.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Server\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "ECommerce.Server\\Controllers\\CartsController.cs",
+              "ViewState": "AgIAAAwAAAAg//////8jwCMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:25:53.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Server\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ECommerce.Server\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Server\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ECommerce.Server\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:19:15.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerce.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Server\\Program.cs",
+              "RelativeToolTip": "ECommerce.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:18:43.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddItemToCart.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\Carts\\AddItemToCart.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Carts\\AddItemToCart.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\Carts\\AddItemToCart.cs",
+              "RelativeToolTip": "ECommerce.Application\\Carts\\AddItemToCart.cs",
+              "ViewState": "AgIAABYAAACApJmZmZkJwB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:17:53.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetCart.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\Carts\\GetCart.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Carts\\GetCart.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\Carts\\GetCart.cs",
+              "RelativeToolTip": "ECommerce.Application\\Carts\\GetCart.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:16:57.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ecommerce.client.esproj",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ecommerce.client\\ecommerce.client.esproj",
+              "RelativeDocumentMoniker": "ecommerce.client\\ecommerce.client.esproj",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ecommerce.client\\ecommerce.client.esproj",
+              "RelativeToolTip": "ecommerce.client\\ecommerce.client.esproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-07T17:07:03.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ECommerce.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+              "RelativeToolTip": "ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T17:05:14.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ECommerce.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Domain\\ECommerce.Domain.csproj",
+              "RelativeDocumentMoniker": "ECommerce.Domain\\ECommerce.Domain.csproj",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Domain\\ECommerce.Domain.csproj",
+              "RelativeToolTip": "ECommerce.Domain\\ECommerce.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T17:05:11.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ECommerce.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\ECommerce.Application.csproj",
+              "RelativeDocumentMoniker": "ECommerce.Application\\ECommerce.Application.csproj",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\ECommerce.Application.csproj",
+              "RelativeToolTip": "ECommerce.Application\\ECommerce.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T17:05:07.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ECommerce.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Server\\ECommerce.API.csproj",
+              "RelativeDocumentMoniker": "ECommerce.Server\\ECommerce.API.csproj",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Server\\ECommerce.API.csproj",
+              "RelativeToolTip": "ECommerce.Server\\ECommerce.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T16:48:05.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetProducts.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\Products\\GetProducts.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Products\\GetProducts.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\Products\\GetProducts.cs",
+              "RelativeToolTip": "ECommerce.Application\\Products\\GetProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:41:57.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CartItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\DTOs\\CartItemDto.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\DTOs\\CartItemDto.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\DTOs\\CartItemDto.cs",
+              "RelativeToolTip": "ECommerce.Application\\DTOs\\CartItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:38:41.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\DTOs\\CartDto.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\DTOs\\CartDto.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\DTOs\\CartDto.cs",
+              "RelativeToolTip": "ECommerce.Application\\DTOs\\CartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:38:04.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "ECommerce.Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:37:11.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "ECommerce.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:33:34.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ECommerceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Infrastructure\\Data\\ECommerceDbContext.cs",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\Data\\ECommerceDbContext.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Infrastructure\\Data\\ECommerceDbContext.cs",
+              "RelativeToolTip": "ECommerce.Infrastructure\\Data\\ECommerceDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:30:06.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ECommerce.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "ECommerce.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:28:22.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Domain\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "ECommerce.Domain\\Entities\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Domain\\Entities\\CartItem.cs",
+              "RelativeToolTip": "ECommerce.Domain\\Entities\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:28:06.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Domain\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "ECommerce.Domain\\Entities\\Cart.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Domain\\Entities\\Cart.cs",
+              "RelativeToolTip": "ECommerce.Domain\\Entities\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:27:40.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerce.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "ECommerce.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:27:13.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "ECommerce.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Chika\\Desktop\\Chika\\ECommerce\\ECommerce.Domain\\Class1.cs",
+              "RelativeToolTip": "ECommerce.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:25:16.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
